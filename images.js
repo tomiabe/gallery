@@ -1,7 +1,8 @@
 export default [
-  "yosemite.jpg",
-  "sky.jpg",
-  "ravine.jpg",
-  "thunder.jpg",
-  "waterfall.jpg"
+    "yosemite.jpg",
+    "sky.jpg",
+    "ravine.jpg",
+    "thunder.jpg",
+    "waterfall.jpg"
+    "system.jpg"
 ];
