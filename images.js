@@ -4,5 +4,4 @@ export default [
     "ravine.jpg",
     "thunder.jpg",
     "waterfall.jpg"
-    "system.jpg"
 ];
